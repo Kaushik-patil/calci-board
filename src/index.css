@@ -40,7 +40,9 @@ code {
 }
 .table{
   position: absolute;
-  margin: 100px 570px;
+  /* margin: 100px 570px; */
+  margin-top: 5%;
+  left: 40%;
   display: flex;
   justify-content: center;
   flex-direction: column;
